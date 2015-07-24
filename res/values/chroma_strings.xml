@@ -2,39 +2,39 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BUILD TWEAKS -->
-    <string name="header_category_chroma">Personalization</string>
+    <string name="header_category_chroma">Personalisierung</string>
     <string name="chroma_settings_title">Chroma</string>
 
     <!-- About phone screen, build date of ROM -->
-    <string name="build_date">Chroma build date</string>
+    <string name="build_date">Chroma Erstellungsdatum</string>
     <string name="build_date_default">2015-01-01-0000</string>
 
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
 
     <!-- Chroma Menu -->
-    <string name="chroma_menu_personalizaton">Chroma options</string>
-    <string name="chroma_menu_about">About Chroma</string>
-    <string name="status_bar_screen_title">Status bar</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_rocker_screen_title">Volume rocker</string>
+    <string name="chroma_menu_personalizaton">Chroma Einstellungen</string>
+    <string name="chroma_menu_about">Über Chroma</string>
+    <string name="status_bar_screen_title">Statusleiste</string>
+    <string name="navigation_bar_screen_title">Navigationsleiste</string>
+    <string name="power_menu_title">Power-Menü</string>
+    <string name="volume_rocker_screen_title">Lautstärke-Tasten</string>
 
     <!-- Chroma categories -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
+    <string name="display_category_batteryclock_options_title">Akku- und Uhr-Einstellungen</string>
     <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigation ring options</string>
-    <string name="display_category_statusbar_options_title">Status bar options</string>
-    <string name="display_category_recents_options_title">Recent apps options</string>
-    <string name="display_category_power_options_title">Power menu options</string>
-    <string name="volume_rocker_other_title">Miscellaneous</string>
+    <string name="display_category_navring_options_title">Navigationsleisten Einstellungen</string>
+    <string name="display_category_statusbar_options_title">Statusleisten Einstellungen</string>
+    <string name="display_category_recents_options_title">Zuletzt verwendete Apps Einstellungen</string>
+    <string name="display_category_power_options_title">Power-Menü Einstellungen</string>
+    <string name="volume_rocker_other_title">Verschiedenes</string>
 
     <!-- Navigation Bar -->
-    <string name="navigation_bar_title">Navigation bar</string>
+    <string name="navigation_bar_title">Navigationsleiste</string>
 
     <!-- Navigation Bar Height -->
-    <string name="navigation_bar_height">Navigation bar height</string>
-    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height">Navigationsleisten-Höhe</string>
+    <string name="navigation_bar_height_48">48dp (Standard)</string>
     <string name="navigation_bar_height_44">44dp</string>
     <string name="navigation_bar_height_40">40dp</string>
     <string name="navigation_bar_height_36">36dp</string>
@@ -42,21 +42,21 @@
     <string name="navigation_bar_height_28">28dp</string>
     <string name="navigation_bar_height_24">24dp</string>
     <string name="navigation_bar_height_20">20dp</string>
-    <string name="navigation_bar_height_0">0dp (hide)</string>
+    <string name="navigation_bar_height_0">0dp (unsichtbar)</string>
 
     <!--- Volume key cursor control -->
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="volume_key_cursor_control_title">Lautstärketasten Cursorsteuerung</string>
+    <string name="volume_key_cursor_control_off">Deaktiviert</string>
+    <string name="volume_key_cursor_control_on">Lauter/leiser bewegt Cursor links/rechts</string>
+    <string name="volume_key_cursor_control_on_reverse">Lauter/leiser bewegt Cursor rechts/links</string>
 
     <!-- Volume adjust sound -->
-    <string name="volume_key_adjust_sound_title">Volume key adjustment sound</string>
-    <string name="volume_key_adjust_sound_summary">Play sound when adjusting volume with volume keys</string>
+    <string name="volume_key_adjust_sound_title">Lautstärketasten Einstellton</string>
+    <string name="volume_key_adjust_sound_summary">Einstellton verwenden wenn Lautstärke mit Tasten geändert wird</string>
 
     <!-- Developer options - kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">App beenden mit Zurück-Knopf</string>
+    <string name="kill_app_longpress_back_summary">App im Vordergrund beenden mit Halten des Zurück-Knopfes</string>
 
     <!-- Network traffic -->
     <string name="network_traffic_title">Network traffic</string>
@@ -80,24 +80,24 @@
 
    <!-- Generic strings -->
     <string name="ok_string">OK</string>
-    <string name="default_string">Default</string>
-    <string name="enabled_string">Enabled</string>
-    <string name="disabled_string">Disabled</string>
-    <string name="general_string">General</string>
-    <string name="reset_string">Reset</string>
-    <string name="empty_string">Empty</string>
-    <string name="font_size_sample">Sample</string>
-    <string name="attention">Attention</string>
+    <string name="default_string">Standard</string>
+    <string name="enabled_string">Aktiviert</string>
+    <string name="disabled_string">Deaktiviert</string>
+    <string name="general_string">Allgemein</string>
+    <string name="reset_string">Zurücksetzen</string>
+    <string name="empty_string">Leer</string>
+    <string name="font_size_sample">Beispiel</string>
+    <string name="attention">Achtung</string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Bildschirm drehen</string>
+    <string name="display_rotation_disabled">Deaktiviert</string>
+    <string name="display_rotation_unit">Grad</string>
+    <string name="display_rotation_category_title">Dreh-Modi</string>
+    <string name="display_rotation_0_title">0 Grad</string>
+    <string name="display_rotation_90_title">90 Grad</string>
+    <string name="display_rotation_180_title">180 Grad</string>
+    <string name="display_rotation_270_title">270 Grad</string>
 
     <!-- Recents panel settings -->
     <string name="recents_panel_settings">Recents panel settings</string>
@@ -142,21 +142,21 @@
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
+    <string name="arrow_right">?</string>
+    <string name="arrow_down">?</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
     <!-- Profiles -->
-    <string name="profile_reset_title">Reset</string>
-    <string name="profiles_add">Add</string>
-    <string name="profile_choose_app">Choose app</string>
+    <string name="profile_reset_title">Zurücksetzen</string>
+    <string name="profiles_add">Hinzufügen</string>
+    <string name="profile_choose_app">App wählen</string>
     <string name="profile_applist_title">Apps</string>
     <string name="picker_activities">Activities</string>
-    <string name="select_custom_app_title">Select custom app</string>
-    <string name="select_custom_activity_title">Select custom activity</string>
+    <string name="select_custom_app_title">Eigene App wählen</string>
+    <string name="select_custom_activity_title">Eigene Activity wählen</string>
 
     <!-- Status bar | Clock -->
     <string name="status_bar_clock">Clock &amp; date</string>
