@@ -22,8 +22,8 @@
 
     <!-- Chroma categories -->
     <string name="display_category_batteryclock_options_title">Akku- und Uhr-Einstellungen</string>
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigationsleisten Einstellungen</string>
+    <string name="display_category_navbar_options_title">Navigationsleisten Einstellungen</string>
+    <string name="display_category_navring_options_title">Navigationsring Einstellungen</string>
     <string name="display_category_statusbar_options_title">Statusleisten Einstellungen</string>
     <string name="display_category_recents_options_title">Zuletzt verwendete Apps Einstellungen</string>
     <string name="display_category_power_options_title">Power-Menü Einstellungen</string>
@@ -59,24 +59,24 @@
     <string name="kill_app_longpress_back_summary">App im Vordergrund beenden mit Halten des Zurück-Knopfes</string>
 
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="show_network_traffic_state">Status bar traffic monitor</string>
-    <string name="network_traffic_summary">Enable various network traffic options in statusbar</string>
-    <string name="show_network_traffic_unit">Display unit</string>
-    <string name="show_network_traffic_frequency">Update interval</string>
-    <string name="show_network_traffic_disable">Disabled</string>
-    <string name="show_network_traffic_up">Outgoing</string>
-    <string name="show_network_traffic_down">Incoming</string>
-    <string name="show_network_traffic_all">Outgoing and incoming</string>
-    <string name="show_network_traffic_bit">Bits per second</string>
-    <string name="show_network_traffic_byte">Bytes per second</string>
+    <string name="network_traffic_title">Datentransfer</string>
+    <string name="show_network_traffic_state">Statusleisten Transfer Monitor</string>
+    <string name="network_traffic_summary">Verschiedenes zur Datentransferüberwachung in der Statusleiste</string>
+    <string name="show_network_traffic_unit">Anzeigeeinheit</string>
+    <string name="show_network_traffic_frequency">Aktualisierungsintervall</string>
+    <string name="show_network_traffic_disable">Deaktiviert</string>
+    <string name="show_network_traffic_up">Ausgehend</string>
+    <string name="show_network_traffic_down">Eingehend</string>
+    <string name="show_network_traffic_all">Ausgehend und eingehend</string>
+    <string name="show_network_traffic_bit">Bits pro Sekunde</string>
+    <string name="show_network_traffic_byte">Bytes pro Sekunde</string>
     <string name="show_network_traffic_500">500 ms</string>
     <string name="show_network_traffic_1000">1000 ms</string>
     <string name="show_network_traffic_1500">1500 ms</string>
     <string name="show_network_traffic_2000">2000 ms</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_autohide_threshold">Inactivity threshold</string> 
+    <string name="network_traffic_autohide">Automatisch ausblenden</string>
+    <string name="network_traffic_autohide_summary">Ausblenden, wenn keine Übertragung erfolgt</string>
+    <string name="network_traffic_autohide_threshold">Inaktivitäts-Schwelle</string> 
 
    <!-- Generic strings -->
     <string name="ok_string">OK</string>
@@ -100,58 +100,58 @@
     <string name="display_rotation_270_title">270 Grad</string>
 
     <!-- Recents panel settings -->
-    <string name="recents_panel_settings">Recents panel settings</string>
-    <string name="show_clear_all_recents_button_title">Clear all recents button</string>
-    <string name="show_clear_all_recents_button_summary">Show clear all button on recents panel</string>
-    <string name="recents_clear_all_location_title">Clear all recents location</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
+    <string name="recents_panel_settings">Zuletzt verwendete Apps Einstellungen</string>
+    <string name="show_clear_all_recents_button_title">Letzte Apps löschen Knopf</string>
+    <string name="show_clear_all_recents_button_summary">Alle löschen Knopf anzeigen</string>
+    <string name="recents_clear_all_location_title">Alle löschen Position</string>
+    <string name="recents_clear_all_location_top_right">Oben rechts</string>
+    <string name="recents_clear_all_location_top_center">Oben Mitte</string>
+    <string name="recents_clear_all_location_top_left">Oben links</string>
+    <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
+    <string name="recents_clear_all_location_bottom_center">Unten Mitte</string>
+    <string name="recents_clear_all_location_bottom_left">Unten links</string>
 
     <!-- BitSyko Layers -->
     <string name="bitsyko_layers">Layers</string>
 
     <!-- Volume Keys Media Control -->
-    <string name="volume_keys_control_media_stream">Media control</string>
-    <string name="volume_keys_control_media_stream_summary">Volume keys control media volume rather than notifications</string>
+    <string name="volume_keys_control_media_stream">Mediensteuerung</string>
+    <string name="volume_keys_control_media_stream_summary">Lautstärketasten steuern Medienlautstärke und nicht Benachrichtigungen</string>
 
     <!-- Camera sound switch -->
-    <string name="camera_sounds_title">Camera shutter sound</string>
-    <string name="camera_sounds_summary">Enable system camera shutter sound</string>
-    <string name="camera_sound_warning_dialog_text">Disabling the camera shutter sound is illegal in some areas! Please check the applicable law in your country</string>
+    <string name="camera_sounds_title">Kamera Auslösergeräusch</string>
+    <string name="camera_sounds_summary">System-Auslösergeräusch aktivieren</string>
+    <string name="camera_sound_warning_dialog_text">Das deaktivieren des Auslösergeräusches ist in einigen Gegenden verboten! Bitte prüfen Sie die Gesetzeslage in Ihrem Land.</string>
 
     <!-- Wakeup options -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
-    <string name="pref_volume_wake_title">Volume rocker wake</string>
-    <string name="pref_volume_wake_summary">Pressing the volume rocker up/down will wake the device</string>
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="display_category_wakeup_options_title">Bildschirm aktivieren</string>
+    <string name="pref_volume_wake_title">Lautstärketasten aktivieren</string>
+    <string name="pref_volume_wake_summary">Ein Druck auf die Lautstärketasten aktiviert den Bildschirm</string>
+    <string name="wakeup_when_plugged_unplugged_title">Ein-/Ausstecken aktiviert</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Ein-/Ausstecken des Ladekabels aktiviert den Bildschirm.</string>
 
     <!-- Status bar double-tap to sleep -->
-    <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Enable or disable to toggle double-tap to sleep on status bar</string>
+    <string name="status_bar_double_tap_to_sleep_title">Bildschirm aus mit Doppel-Tipp</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Aktiviert / deaktiviert Doppel-Tipp auf der Statusleiste</string>
 
     <!-- Status bar brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across status bar</string>
-    <string name="status_bar_toggle_info">Automatic brightness must be disabled</string>
+    <string name="status_bar_toggle_brightness">Helligkeitseinstellungen</string>
+    <string name="status_bar_toggle_brightness_summary">Helligkeit durch Streichen über die Statusleiste einstellen</string>
+    <string name="status_bar_toggle_info">Automatische Helligkeitseinstellung muss ausgeschaltet sein.</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Farbwahl-Werkzeug</string>
+    <string name="press_color_to_apply">Drücke unten auf eine Farbe um sie anzuwenden.</string>
     <string name="arrow_right">?</string>
     <string name="arrow_down">?</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Setzen</string>
+    <string name="color_default">Standard</string>
 
     <!-- Profiles -->
-    <string name="profile_reset_title">Zurücksetzen</string>
-    <string name="profiles_add">Hinzufügen</string>
+    <string name="profile_reset_title">Reset</string>
+    <string name="profiles_add">Add</string>
     <string name="profile_choose_app">App wählen</string>
     <string name="profile_applist_title">Apps</string>
     <string name="picker_activities">Activities</string>
@@ -159,24 +159,24 @@
     <string name="select_custom_activity_title">Eigene Activity wählen</string>
 
     <!-- Status bar | Clock -->
-    <string name="status_bar_clock">Clock &amp; date</string>
-    <string name="status_bar_clock_title">Clock &amp; date style</string>
-    <string name="status_bar_clock_summary">Change various clock &amp; date options</string> 
-    <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_show_clock_title">Show clock and date</string>
+    <string name="status_bar_clock">Uhr &amp; Datum</string>
+    <string name="status_bar_clock_title">Uhr &amp; Datumsformat</string>
+    <string name="status_bar_clock_summary">Uhr- &amp; Datumseinstellungen ändern</string> 
+    <string name="clock_title_enable">Ausrichtung</string>
+    <string name="clock_enabled">Aktiviert</string>
+    <string name="clock_disabled">Deaktiviert</string>
+    <string name="status_bar_show_clock_title">Uhr und Datum anzeigen</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
-    <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
+    <string name="status_bar_am_pm_info">24-Stunden Anzeige ist aktiviert</string>
+    <string name="enable_clock_weekday">Wochentag</string>
+    <string name="enable_clock_weekday_summary">Wochentagskürzel vor der Zeitanzeige</string>
+    <string name="right_clock">Uhr rechts</string>
+    <string name="center_clock">Uhr mittig</string>
+    <string name="left_clock">Uhr links</string>
+    <string name="dont_show">Nicht anzeigen</string>
+    <string name="clock_date_display">Datum</string>
+    <string name="clock_date_display_summary">Nutzerspezifisches Datum vor der Uhrzeit anzeigen</string>
+    <string name="clock_date_style">Datumsformat</string>
     <string name="clock_date_format">Date format</string>
     <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Enter string</string>
